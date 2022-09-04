@@ -13,7 +13,7 @@ import java.util.Scanner;
 
 
 /**
- *
+ * Adding comment from branch b1
  * @author sohof
  */
 public class JDBCLabb {
